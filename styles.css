@@ -1,0 +1,76 @@
+  
+    h1 {
+        text-align: center;
+        font-family: verdana;
+        color: #d46c4e;
+
+    }
+    
+
+    
+    h2 {
+        text-align: left;
+        font-size: medium;
+    }
+    
+    .form-container {
+        display:none;
+    }
+    #header-image {
+        
+        width: 100%; 
+        height: 130px; 
+        margin: 0px;
+        padding-top: 0px;
+    }
+
+    #leftbox { 
+        float:left;  
+        font-family: verdana;
+        width:20%; 
+        height: 10em; 
+        font-size: 110%;
+        text-align: center;
+        margin: 10;
+        color: #ff7733;
+        cursor: pointer;
+    } 
+    #middlebox{ 
+        float: left;  
+        width:60%; 
+        height:800em; 
+        font-size: 100%;
+        text-align: center;
+        color: gray;
+        font-family: verdana;
+        
+    } 
+
+    #home-pic {
+
+        height: 650px;
+        width: 800px;
+        padding-right: 1;
+        padding-left: 1;
+
+    }
+
+    #post-image, #profile-image {
+        height: 550px;
+        width: 700px;
+        padding-right: 1;
+        padding-left: 1;
+    }
+
+    #rightbox{ 
+        float:right; 
+      
+        width: 20%; 
+        height:100em; 
+        padding-top: 0;
+    } 
+            
+    body {
+        margin: 0px;
+    }
+  
